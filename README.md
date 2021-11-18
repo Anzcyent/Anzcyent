@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cihan Özcan @Anzcyent
-- 👀 I’m interested in web developing (React, Redux, Node.js, Express etc.).
-- 🌱 I’m currently improving my C# and React skills.
+- 👀 I’m a MERN developer.
+- 🌱 I’m currently learning GRAPHQL.
 
 <!---
 Anzcyent/Anzcyent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cihan Özcan @Anzcyent
-- 👀 I’m a MERN developer.
+- 👀 I’m a junior MERN developer.
 - 🌱 I’m currently learning GRAPHQL.
 
 <!---

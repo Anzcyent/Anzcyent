@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Cihan Özcan @Anzcyent
-- 👀 I’m a junior MERN developer.
-- 🌱 I’m currently learning GRAPHQL.
+- 👀 I’m a MERN stack developer.
 
 <!---
 Anzcyent/Anzcyent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

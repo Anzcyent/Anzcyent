@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cihan</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<h3 align="center">Frontend developer from Türkiye</h3>
 
 - 👨‍💻 My portfolio is [https://anzcyent.onrender.com](https://anzcyent.onrender.com) (Currently creating)
 

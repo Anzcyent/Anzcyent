@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cihan</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">I am Frontend Developer</h3>
 
 - 👨‍💻 My portfolio is [https://anzcyent.onrender.com](https://anzcyent.onrender.com) (Currently creating)
 

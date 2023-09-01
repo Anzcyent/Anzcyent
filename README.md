@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cihan</h1>
 <h3 align="center">I am Frontend Developer</h3>
 
-- 👨‍💻 My portfolio is [https://anzcyent.onrender.com](https://anzcyent.onrender.com) (Currently creating)
+- 👨‍💻 My portfolio is [https://anzcyent.onrender.com](https://anzcyent.onrender.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
